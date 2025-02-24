@@ -12,19 +12,15 @@
 
 <p align="left"> <a href="https://twitter.com/ishitaanan76300" target="blank"><img src="https://img.shields.io/twitter/follow/ishitaanan76300?logo=twitter&style=for-the-badge" alt="ishitaanan76300" /></a> </p>
 
-- 🌱 I’m currently learning **various languages and new frameworks**
-
-- 👯 I’m looking to collaborate on **research projects in any tech stack**
-
-- 🤝 I’m looking for help in **guidance and new technologies.**
-
-- 👨‍💻 All of my projects are available at [PORTFOLIO BANAO](PORTFOLIO BANAO)
-
-- 💬 Ask me about **my life:)**
-
-- 📫 How to reach me **ishita09intern@gmail.com**
-
-- ⚡ Fun fact **I think I am cute😍😍**
+- 🌱 Passionate about exploring new programming languages, frameworks, and emerging technologies.
+  
+- 🤝 Excited to collaborate on research projects and innovative tech solutions.
+  
+- 🚀 Always eager to learn, grow, and stay ahead in the ever-evolving tech landscape.
+  
+- 💬 Love discussing tech, career journeys, and creative problem-solving—let’s chat!
+  
+- 📩 Reach me at ishita09intern@gmail.com—open to opportunities and collaborations.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
